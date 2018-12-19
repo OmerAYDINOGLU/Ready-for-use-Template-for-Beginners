@@ -18,6 +18,6 @@ Owl Carousel 2-2.3.4 <br>
 Font Awesome Free 5.4.2 <br>
 Custom JS <br>
 
-<h5>Ekran Görüntüleri</h5>
+<h5>Screenshots</h5>
 <img src="https://images2.imgbox.com/78/83/UXhH8FJG_o.png"><br><br>
 <img src="https://images2.imgbox.com/49/fb/gphP1SXQ_o.png"><br><br>
